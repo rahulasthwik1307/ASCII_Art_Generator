@@ -2,7 +2,7 @@
 
 # 🎨 ASCII Art Generator
 
-![ASCII Art Example](https://via.placeholder.com/800x400?text=Sample+ASCII+Art+Output)
+![ASCII Art Example](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/10e86b10d18021fcf061229b07008c8da8589488/1st.png)
 
 <!-- Replace with your actual screenshot -->
 
