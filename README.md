@@ -60,6 +60,7 @@ ruby app/server.rb
 ### 🟢 Step 2: Run the Client Application
 
 ![Client Window](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/faa445d935759c692c955556af1e0547cbdb9c2d/screenshots/client.png)
+
 ![image alt](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/faa445d935759c692c955556af1e0547cbdb9c2d/screenshots/window.png)
 
 ```bash
@@ -81,7 +82,7 @@ ruby app/main.rb
 
 ### 🟢 Step 4: View in Browser
 
-![Browser Output](https://via.placeholder.com/800x400?text=Browser+Output+Screen)
+![Browser Output](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/5th.png)
 Open your browser and go to:
 ➡️ [http://localhost:4567](http://localhost:4567)
 
@@ -139,14 +140,16 @@ ASCII_Art_Generator/
 ## 📸 Screenshot Guide
 
 1. **Application Window**
-   ![App Window](screenshots/app-window.png) <!-- Replace with your real screenshot -->
+   ![App Window](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/window.png) <!-- Replace with your real screenshot -->
 
 2. **Browser Output**
-   ![Browser Output](screenshots/browser-output.png) <!-- Replace with your real screenshot -->
+   ![Browser Output](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/5th.png) <!-- Replace with your real screenshot -->
 
 3. **Font Selection Interface**
-   ![Font Cycling](screenshots/font-selection.png) <!-- Replace with your real screenshot -->
 
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/rahulasthwik1307/ASCII_Art_Generator/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/fonts.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/rahulasthwik1307/ASCII_Art_Generator/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/fonts1.png" width="45%" />
+</p>
 
 
