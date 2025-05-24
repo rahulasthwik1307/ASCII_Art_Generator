@@ -59,7 +59,8 @@ ruby app/server.rb
 
 ### 🟢 Step 2: Run the Client Application
 
-![Client Window](https://via.placeholder.com/600x400?text=ASCII+Art+Generator+Window)
+![Client Window](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/faa445d935759c692c955556af1e0547cbdb9c2d/screenshots/client.png)
+![image alt](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/faa445d935759c692c955556af1e0547cbdb9c2d/screenshots/window.png)
 
 ```bash
 ruby app/main.rb
