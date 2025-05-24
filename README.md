@@ -146,10 +146,9 @@ ASCII_Art_Generator/
    ![Browser Output](https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/5th.png) <!-- Replace with your real screenshot -->
 
 3. **Font Selection Interface**
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/rahulasthwik1307/ASCII_Art_Generator/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/fonts.png" width="45%" />
-  <img src="https://raw.githubusercontent.com/rahulasthwik1307/ASCII_Art_Generator/c6bc609dba0dbcac9a7644c234da308a831cd177/screenshots/fonts1.png" width="45%" />
+<p align="center">
+  <img src="screenshots/fonts.png" width="45%" />
+  <img src="screenshots/fonts1.png" width="45%" />
 </p>
 
 
