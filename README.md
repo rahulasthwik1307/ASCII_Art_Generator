@@ -49,7 +49,7 @@ A **Ruby** application that converts text into ASCII art with a graphical interf
 
 ### 🟢 Step 1: Launch the Server
 
-![Server Launch](https://via.placeholder.com/600x200?text=ruby+app/server.rb)
+![Server Launch](https://github.com/rahulasthwik1307/ASCII_Art_Generator)
 
 ```bash
 ruby app/server.rb
