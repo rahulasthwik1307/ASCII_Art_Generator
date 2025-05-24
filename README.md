@@ -147,8 +147,8 @@ ASCII_Art_Generator/
 
 3. **Font Selection Interface**
 <p align="center">
-  <img src="screenshots/fonts.png" width="45%" />
-  <img src="screenshots/fonts1.png" width="45%" />
+  <img src="https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/297fc24abec493a72317d6e6ee9529768774c360/fonts.png" width="45%" />
+  <img src="https://github.com/rahulasthwik1307/ASCII_Art_Generator/blob/297fc24abec493a72317d6e6ee9529768774c360/fonts1.png" width="45%" />
 </p>
 
 
